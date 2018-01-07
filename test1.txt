@@ -1,0 +1,10 @@
+ Volume in drive C is Acer
+ Volume Serial Number is A24D-B756
+
+ Directory of C:\Users\Ramya\Desktop\MyProject
+
+07-01-2018  10:33    <DIR>          .
+07-01-2018  10:33    <DIR>          ..
+07-01-2018  10:33                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  839,566,909,440 bytes free
